@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgealmanzar
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Testing Automation in TestProject
+- 🌱 I’m currently learning Testing Automation in PlayWright
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me, here
 
